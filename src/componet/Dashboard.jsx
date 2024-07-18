@@ -6,7 +6,7 @@ export default function Dashboard() {
 
   const [data, SetData] = useState([]);
 
-  const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3MTc5OTQ1MTQ0OTUtNjU4MTIxMzU3IiwiaWF0IjoxNzE3OTk0NTE0LCJleHAiOjE3MTgxNjczMTR9.kMIv6efVircklLkyqrnnQWpuR9YsOzoX_2vZQPWSEc4';
+  const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE3MTkzNzgzNDI4NTktMTQ0ODk0NTU0IiwiaWF0IjoxNzE5Mzc4MzQyLCJleHAiOjE3MTk1NTExNDJ9.GLcMwaKGBw5ETFcR2m_whgLby88IGGbeXP3iL6hvMFk';
 
   useEffect(() => {
 
